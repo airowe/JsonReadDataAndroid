@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Lisa Frank",
+    "specialty": "Neurology"
+  },
+  {
+    "name": "Jon Stewart",
+    "specialty": "Cardiology"
+  },
+  {
+    "name": "Anthony Coleman",
+    "specialty": "Psychiatry"
+  },
+  {
+    "name": "Thomas Pynchon",
+    "specialty": "Gastroenterology"
+  },
+  {
+    "name": "Abe Froman",
+    "specialty": "Cardiology"
+  },
+  {
+    "name": "Steven Whitman",
+    "specialty": "Cardiology"
+  },
+  {
+    "name": "Sophie Pendragon",
+    "specialty": "Pediatrics"
+  },
+  {
+    "name": "Stephanie Adams",
+    "specialty": "Endocrinology"
+  }
+]

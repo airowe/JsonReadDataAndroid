@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical"
+    android:background="@android:color/background_light" >
+        
+     <TextView android:id="@+id/specialtyText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:textColor="@android:color/background_dark"
+        android:textSize="17sp"
+        android:gravity="center_vertical"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/physician"
+        android:drawablePadding="10dp" />
+     
+     <TextView android:id="@+id/nameText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/background_dark"
+        android:paddingLeft="?android:attr/expandableListPreferredChildPaddingLeft"
+        android:textSize="12sp"
+        android:gravity="center_vertical" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Json Read Data</string>
+    <string name="action_settings">Settings</string>
+    <string name="physicians_button_text">Physicians</string>
+    <string name="specialties_button_text">Specialties</string>
+    <string name="parse_button_text">Check Available Physicians</string>
+    <string name="web_search">Web Search</string>
+    <string name="physicians_search">Physicians Search</string>
+
+</resources>
